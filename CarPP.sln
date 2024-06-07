@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarPP", "CarPP\CarPP.csproj", "{AF8043BA-4A73-4C0A-BA07-5386151985A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF8043BA-4A73-4C0A-BA07-5386151985A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8043BA-4A73-4C0A-BA07-5386151985A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8043BA-4A73-4C0A-BA07-5386151985A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8043BA-4A73-4C0A-BA07-5386151985A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A34A2AFF-ACB2-41A0-9BED-1E4EA2C641EC}
+	EndGlobalSection
+EndGlobal
